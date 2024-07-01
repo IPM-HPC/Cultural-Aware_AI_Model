@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/mehrdadbaradaran/distilbert-weights-multilingual
+https://www.kaggle.com/datasets/mehrdadbaradaran/resnet50-weights-multilingual
+https://www.kaggle.com/datasets/mehrdadbaradaran/final-weights
